@@ -1,3 +1,6 @@
+## Η περίπτωση του OLPC (student contribution)
+
+![](cs-olpc.md){.include}
 
 ## Η περίπτωση του UNIX
 
